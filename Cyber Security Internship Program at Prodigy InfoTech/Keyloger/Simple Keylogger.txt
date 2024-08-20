@@ -1,0 +1,55 @@
+Simple Keylogger
+
+A basic Python keylogger that records and logs keystrokes to a file. This keylogger captures each key pressed by the user and stores the data in a text file. It is designed for educational purposes to demonstrate how keylogging works and the importance of security against such tools.
+
+Ethical Considerations
+
+**Warning:** Keyloggers can be used maliciously, so it is crucial to use this tool responsibly. Always ensure you have explicit permission to log keystrokes on any system, and be aware of the ethical and legal implications. Use this tool only for educational purposes and with full consent from all parties involved.
+
+Features
+
+- **Key Logging**: Captures all keystrokes, including special keys, and logs them to a file.
+- **Stop on Escape**: The keylogger stops logging when the `Esc` key is pressed.
+
+Installation
+
+1. Clone the repository to your local machine:
+   bash
+   git clone https://github.com/Badalkathayat/simple-keylogger.git
+   cd simple-keylogger
+   
+
+2. Install the required dependencies:
+   bash
+   pip install pynput
+   
+
+Usage
+
+1. Run the keylogger script:
+   ```bash
+   python simple_keylogger.py
+   ```
+
+2. The script will start logging keystrokes to a file named `keylog.txt` in the same directory.
+
+3. Press the `Esc` key to stop the keylogger.
+
+Example
+
+When running the script, the keystrokes will be recorded as follows:
+
+
+h e l l o   w o r l d <Key.space> <Key.enter>
+
+
+This output will be saved in the `keylog.txt` file.
+
+Contributing
+
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
