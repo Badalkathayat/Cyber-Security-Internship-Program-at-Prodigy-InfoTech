@@ -3,22 +3,22 @@ This is my cybersecurity internship project.
 
 This repository contains the projects developed during my cybersecurity internship at Prodigy InfoTech. The projects focus on various aspects of cybersecurity, including network analysis, cryptography, keylogging, password security, and image encryption.
 
-## Projects Included
+ Projects Included
 
-### 1. Network Packet Analyzer
-A tool that captures and analyzes network packets. It provides insights into network traffic and helps in identifying potential security issues.
+1. Caesar Cipher
+A basic implementation of the Caesar Cipher encryption technique. This project serves as an introduction to cryptographic algorithms and their practical applications.
 
-### 2. Keylogger
+2. Keylogger
 A simple keylogger developed for educational purposes. It captures keystrokes and logs them for analysis. This project demonstrates the importance of securing input methods against unauthorized access.
 
-### 3. Pixel Manipulation for Image Encryption
-A project that explores image encryption through pixel manipulation techniques. The goal is to enhance the security of image data by transforming it into an unreadable format.
+3.  Network Packet Analyzer
+A tool that captures and analyzes network packets. It provides insights into network traffic and helps in identifying potential security issues.
 
-### 4. Password Complexity Checker
+4. Password Complexity Checker
 A utility that checks the strength of passwords. It evaluates passwords based on criteria like length, character variety, and common patterns, helping users create stronger passwords.
 
-### 5. Caesar Cipher
-A basic implementation of the Caesar Cipher encryption technique. This project serves as an introduction to cryptographic algorithms and their practical applications.
+5. Pixel Manipulation for Image Encryption
+A project that explores image encryption through pixel manipulation techniques. The goal is to enhance the security of image data by transforming it into an unreadable format.
 
 ## How to Use
 
